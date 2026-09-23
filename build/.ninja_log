@@ -1422,3 +1422,36 @@
 1181388	1182478	8118910168198383	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/.bin_timestamp	b6f1f7df3cf60899
 1182479	1182888	8118910168338427	CMakeFiles/app_check_size	71c8b2d20f9830e
 1182479	1182888	8118910168338427	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/CMakeFiles/app_check_size	71c8b2d20f9830e
+487	1025	8118913783973217	CMakeFiles/app_check_size	71c8b2d20f9830e
+487	1025	8118913783973217	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/CMakeFiles/app_check_size	71c8b2d20f9830e
+468	1371	8118913783787866	bootloader-prefix/src/bootloader-stamp/bootloader-build	1f9c55559bb6368a
+468	1371	8118913783787866	bootloader/bootloader.elf	1f9c55559bb6368a
+468	1371	8118913783787866	bootloader/bootloader.bin	1f9c55559bb6368a
+468	1371	8118913783787866	bootloader/bootloader.map	1f9c55559bb6368a
+468	1371	8118913783787866	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	1f9c55559bb6368a
+468	1371	8118913783787866	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.elf	1f9c55559bb6368a
+468	1371	8118913783787866	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.bin	1f9c55559bb6368a
+468	1371	8118913783787866	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.map	1f9c55559bb6368a
+1372	1523	8118913792817792	bootloader-prefix/src/bootloader-stamp/bootloader-install	8df3bb9100a6d5bb
+1372	1523	8118913792817792	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	8df3bb9100a6d5bb
+1523	1893	8118913797887538	CMakeFiles/bootloader-complete	3fca9af116c463a7
+1523	1893	8118913797887538	bootloader-prefix/src/bootloader-stamp/bootloader-done	3fca9af116c463a7
+1523	1893	8118913797887538	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/CMakeFiles/bootloader-complete	3fca9af116c463a7
+1523	1893	8118913797887538	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	3fca9af116c463a7
+437	1131	8118913809820975	CMakeFiles/app_check_size	71c8b2d20f9830e
+437	1131	8118913809820975	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/CMakeFiles/app_check_size	71c8b2d20f9830e
+419	1410	8118913809640368	bootloader-prefix/src/bootloader-stamp/bootloader-build	1f9c55559bb6368a
+419	1410	8118913809640368	bootloader/bootloader.elf	1f9c55559bb6368a
+419	1410	8118913809640368	bootloader/bootloader.bin	1f9c55559bb6368a
+419	1410	8118913809640368	bootloader/bootloader.map	1f9c55559bb6368a
+419	1410	8118913809640368	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	1f9c55559bb6368a
+419	1410	8118913809640368	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.elf	1f9c55559bb6368a
+419	1410	8118913809640368	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.bin	1f9c55559bb6368a
+419	1410	8118913809640368	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.map	1f9c55559bb6368a
+1411	1551	8118913819565157	bootloader-prefix/src/bootloader-stamp/bootloader-install	8df3bb9100a6d5bb
+1411	1551	8118913819565157	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	8df3bb9100a6d5bb
+1552	1887	8118913824194228	CMakeFiles/bootloader-complete	3fca9af116c463a7
+1552	1887	8118913824194228	bootloader-prefix/src/bootloader-stamp/bootloader-done	3fca9af116c463a7
+1552	1887	8118913824194228	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/CMakeFiles/bootloader-complete	3fca9af116c463a7
+1552	1887	8118913824194228	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	3fca9af116c463a7
+1888	19036	8118913824334530	CMakeFiles/flash.util	a9d590077ee98478
