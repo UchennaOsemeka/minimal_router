@@ -1,0 +1,70 @@
+Command: cmake -G Ninja -B C:\Users\admin_user\Documents\ESP32\Projects\Personal Creations\Router Project\minimal_router\build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=C:\Espressif\tools\python\v6.0.2\venv\Scripts\python.exe -DESP_PLATFORM=1 -DIDF_TARGET=esp32c61 -DCCACHE_ENABLE=True C:\Users\admin_user\Documents\ESP32\Projects\Personal Creations\Router Project\minimal_router
+-- Existing sdkconfig 'C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/sdkconfig' renamed to 'C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/sdkconfig.old'.
+-- Found Git: C:/Program Files/Git/cmd/git.exe (found version "2.52.0.windows.1")
+-- Component directory C:/esp/v6.0.2/esp-idf/components/mqtt does not contain a CMakeLists.txt file. No component will be added
+-- Minimal build - ON
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 15.2.0
+-- The CXX compiler identification is GNU 15.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/bin/riscv32-esp-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/bin/riscv32-esp-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/bin/riscv32-esp-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32c61
+-- KCONFIG_REPORT_VERBOSITY not set, using default
+-- Project sdkconfig file C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/sdkconfig
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/riscv/ld/rom.api.ld
+-- App "minimal_router" version: 1
+-- Found Python3: C:/Espressif/tools/python/v6.0.2/venv/Scripts/python.exe (found version "3.11.15") found components: Interpreter
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- Setting up mbedtls configuration
+-- Linkage type is PUBLIC
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_hal_wdt/esp32c61/rom.wdt.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_system/ld/esp32c61/memory.ld.in
+--   -> Preprocessing .in script: C:/esp/v6.0.2/esp-idf/components/esp_system/ld/esp32c61/memory.ld.in
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_system/ld/esp32c61/sections.ld.in
+--   -> Preprocessing .in script: C:/esp/v6.0.2/esp-idf/components/esp_system/ld/esp32c61/sections.ld.in
+--   -> Applying ldgen processing: C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.api.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.rvfp.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.systimer.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.version.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.phy.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.coexist.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.net80211.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.pp.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.libc.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/esp_rom/esp32c61/ld/esp32c61.rom.heap.ld
+-- Adding linker script C:/esp/v6.0.2/esp-idf/components/soc/esp32c61/ld/esp32c61.peripherals.ld
+-- Components: app_update bootloader bootloader_support cxx efuse esp_app_format esp_blockdev esp_bootloader_format esp_common esp_driver_dma esp_driver_gpio esp_hal_ana_conv esp_hal_clock esp_hal_dma esp_hal_gpio esp_hal_gpspi esp_hal_i2s esp_hal_mspi esp_hal_pmu esp_hal_rtc_timer esp_hal_security esp_hal_timg esp_hal_touch_sens esp_hal_uart esp_hal_usb esp_hal_wdt esp_hw_support esp_libc esp_mm esp_partition esp_pm esp_rom esp_security esp_stdio esp_system esp_timer esp_usb_cdc_rom_console esptool_py freertos hal heap log main mbedtls partition_table pthread riscv soc spi_flash
+-- Component paths: C:/esp/v6.0.2/esp-idf/components/app_update C:/esp/v6.0.2/esp-idf/components/bootloader C:/esp/v6.0.2/esp-idf/components/bootloader_support C:/esp/v6.0.2/esp-idf/components/cxx C:/esp/v6.0.2/esp-idf/components/efuse C:/esp/v6.0.2/esp-idf/components/esp_app_format C:/esp/v6.0.2/esp-idf/components/esp_blockdev C:/esp/v6.0.2/esp-idf/components/esp_bootloader_format C:/esp/v6.0.2/esp-idf/components/esp_common C:/esp/v6.0.2/esp-idf/components/esp_driver_dma C:/esp/v6.0.2/esp-idf/components/esp_driver_gpio C:/esp/v6.0.2/esp-idf/components/esp_hal_ana_conv C:/esp/v6.0.2/esp-idf/components/esp_hal_clock C:/esp/v6.0.2/esp-idf/components/esp_hal_dma C:/esp/v6.0.2/esp-idf/components/esp_hal_gpio C:/esp/v6.0.2/esp-idf/components/esp_hal_gpspi C:/esp/v6.0.2/esp-idf/components/esp_hal_i2s C:/esp/v6.0.2/esp-idf/components/esp_hal_mspi C:/esp/v6.0.2/esp-idf/components/esp_hal_pmu C:/esp/v6.0.2/esp-idf/components/esp_hal_rtc_timer C:/esp/v6.0.2/esp-idf/components/esp_hal_security C:/esp/v6.0.2/esp-idf/components/esp_hal_timg C:/esp/v6.0.2/esp-idf/components/esp_hal_touch_sens C:/esp/v6.0.2/esp-idf/components/esp_hal_uart C:/esp/v6.0.2/esp-idf/components/esp_hal_usb C:/esp/v6.0.2/esp-idf/components/esp_hal_wdt C:/esp/v6.0.2/esp-idf/components/esp_hw_support C:/esp/v6.0.2/esp-idf/components/esp_libc C:/esp/v6.0.2/esp-idf/components/esp_mm C:/esp/v6.0.2/esp-idf/components/esp_partition C:/esp/v6.0.2/esp-idf/components/esp_pm C:/esp/v6.0.2/esp-idf/components/esp_rom C:/esp/v6.0.2/esp-idf/components/esp_security C:/esp/v6.0.2/esp-idf/components/esp_stdio C:/esp/v6.0.2/esp-idf/components/esp_system C:/esp/v6.0.2/esp-idf/components/esp_timer C:/esp/v6.0.2/esp-idf/components/esp_usb_cdc_rom_console C:/esp/v6.0.2/esp-idf/components/esptool_py C:/esp/v6.0.2/esp-idf/components/freertos C:/esp/v6.0.2/esp-idf/components/hal C:/esp/v6.0.2/esp-idf/components/heap C:/esp/v6.0.2/esp-idf/components/log C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/main C:/esp/v6.0.2/esp-idf/components/mbedtls C:/esp/v6.0.2/esp-idf/components/partition_table C:/esp/v6.0.2/esp-idf/components/pthread C:/esp/v6.0.2/esp-idf/components/riscv C:/esp/v6.0.2/esp-idf/components/soc C:/esp/v6.0.2/esp-idf/components/spi_flash
+-- Configuring done (48.0s)
+-- Generating done (3.3s)
+-- Build files have been written to: C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build

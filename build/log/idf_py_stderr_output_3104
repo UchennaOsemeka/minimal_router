@@ -1,0 +1,12 @@
+Command: ninja all
+Default value for PM_SLEEP_FUNC_IN_IRAM in sdkconfig is n but it is y according to Kconfig.
+Using default value from sdkconfig (n).
+Default value for PM_SLP_IRAM_OPT in sdkconfig is n but it is y according to Kconfig.
+Using default value from sdkconfig (n).
+NOTE: Kconfig parser version: 1
+NOTE: Kconfig defaults policy: use sdkconfig
+NOTE: Status: Finished with notifications
+NOTE: C:/esp/v6.0.2/esp-idf/components/esp_pm/Kconfig:3: PM_SLEEP_FUNC_IN_IRAM: Kconfig default value: y, sdkconfig default value: n
+NOTE: C:/esp/v6.0.2/esp-idf/components/esp_pm/Kconfig:62: PM_SLP_IRAM_OPT: Kconfig default value: y, sdkconfig default value: n
+HINT: This area reports issues with default values of the config options.
+For more information, please visit https://docs.espressif.com/projects/esp-idf-kconfig/en/latest/kconfiglib/configuration-report.html#default-value-mismatch

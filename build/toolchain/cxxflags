@@ -1,0 +1,4 @@
+-march=rv32imac_zicsr_zifencei_zaamo_zalrsc
+-mtune=esp-base
+"-specs=C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/specs/picolibc.specs"
+-fno-rtti

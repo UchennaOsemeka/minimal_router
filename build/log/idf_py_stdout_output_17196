@@ -1,0 +1,82 @@
+Command: C:\Espressif\tools\python\v6.0.2\venv\Scripts\python.exe C:\esp\v6.0.2\esp-idf\tools/idf_monitor.py -p COM9 -b 115200 --toolchain-prefix riscv32-esp-elf- --target esp32c61 --revision 100 --decode-panic backtrace C:\Users\admin_user\Documents\ESP32\Projects\Personal Creations\Router Project\minimal_router\build\minimal_router.elf C:\Users\admin_user\Documents\ESP32\Projects\Personal Creations\Router Project\minimal_router\build\bootloader\bootloader.elf --force-color -m 'C:\Espressif\tools\python\v6.0.2\venv\Scripts\python.exe' 'C:\esp\v6.0.2\esp-idf\tools\idf.py'
+ESP-ROM:esp32c61-eco3-20250228
+Build:Feb 28 2025
+rst:0x1 (POWERON),boot:0xc (SPI_FAST_FLASH_BOOT)
+SPI mode:DIO, clock div:1
+load:0x40845790,len:0x16f4
+load:0x4083b970,len:0xd1c
+load:0x4083e670,len:0x32c8
+entry 0x4083b97a
+[0;32mI (23) boot: ESP-IDF v6.0.2 2nd stage bootloader[0m
+[0;32mI (23) boot: compile time Sep 13 2026 11:39:04[0m
+[0;32mI (24) boot: chip revision: v1.0[0m
+[0;32mI (24) boot: efuse block revision: v0.1[0m
+[0;32mI (27) boot.esp32c61: SPI Speed      : 80MHz[0m
+[0;32mI (31) boot.esp32c61: SPI Mode       : DIO[0m
+[0;32mI (34) boot.esp32c61: SPI Flash Size : 2MB[0m
+[0;32mI (38) boot: Enabling RNG early entropy source...[0m
+[0;32mI (43) boot: Partition Table:[0m
+[0;32mI (45) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (52) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (58) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (65) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (71) boot: End of partition table[0m
+[0;32mI (75) esp_image: segment 0: paddr=00010020 vaddr=42010020 size=06248h ( 25160) map[0m
+[0;32mI (87) esp_image: segment 1: paddr=00016270 vaddr=40800000 size=01da8h (  7592) load[0m
+[0;32mI (91) esp_image: segment 2: paddr=00018020 vaddr=42000020 size=0e920h ( 59680) map[0m
+[0;32mI (107) esp_image: segment 3: paddr=00026948 vaddr=40801da8 size=06a7ch ( 27260) load[0m
+[0;32mI (114) esp_image: segment 4: paddr=0002d3cc vaddr=40808880 size=01780h (  6016) load[0m
+[0;32mI (118) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (118) boot: Disabling RNG early entropy source...[0m
+[0;33mW (133) pmu_init: blk_version is less than 2, pvt function not supported in efuse.[0m
+[0;32mI (134) cpu_start: Unicore app[0m
+[0;33mW (143) clk: esp_perip_clk_init() has not been implemented yet[0m
+[0;32mI (149) cpu_start: GPIO 10 and 11 are used as console UART I/O pins[0m
+[0;32mI (149) cpu_start: Pro cpu start user code[0m
+[0;32mI (149) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (151) app_init: Application information:[0m
+[0;32mI (155) app_init: Project name:     minimal_router[0m
+[0;32mI (159) app_init: App version:      1[0m
+[0;32mI (163) app_init: Compile time:     Sep 13 2026 11:36:53[0m
+[0;32mI (168) app_init: ELF file SHA256:  0eba80b13...[0m
+[0;32mI (172) app_init: ESP-IDF:          v6.0.2[0m
+[0;32mI (176) efuse_init: Min chip rev:     v1.0[0m
+[0;32mI (180) efuse_init: Max chip rev:     v1.99 [0m
+[0;32mI (184) efuse_init: Chip rev:         v1.0[0m
+[0;32mI (188) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (194) heap_init: At 4080AF70 len 00041700 (261 KiB): RAM[0m
+[0;32mI (199) heap_init: At 4084C670 len 00002F58 (11 KiB): RAM[0m
+[0;32mI (205) spi_flash: detected chip: generic[0m
+[0;32mI (208) spi_flash: flash io: dio[0m
+[0;33mW (211) spi_flash: Detected size(8192k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (223) sleep_gpio: Configure to isolate all GPIO pins in sleep state[0m
+[0;32mI (229) sleep_gpio: Enable automatic switching of GPIO sleep configuration[0m
+[0;32mI (236) main_task: Started on CPU0[0m
+[0;32mI (236) main_task: Calling app_main()[0m
+ESP32-C6 Network Project
+System initialized
+Waiting for Wi-Fi configuration
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...
+Still waiting...

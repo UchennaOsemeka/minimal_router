@@ -1,0 +1,11 @@
+echo Warning: ROM ELF is not supported yet for "esp32c61".\n
+
+
+
+# Load bootloader symbols
+set confirm off
+    # Bootloader elf was not found
+set confirm on
+
+# Load application symbols
+file C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/bootloader.elf
