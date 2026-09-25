@@ -3,96 +3,107 @@
 162	3469	8110242797450032	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	ac220052bbd65856
 30320	34589	8110243099021564	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/chip_info.c.obj	f9966dda451cde47
 249	3628	8110242798321075	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	caf940099eb2a09f
-85225	86427	8110243656756754	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/project_elf_src_esp32c61.c	4dd48fde56790a54
-337	4026	8110242799202469	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	c35e04cb94a23bab
 3818	7631	8110242834006378	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	f48232fc045a454f
 99	3698	8110242796839101	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	6493d9733d049dfc
+337	4026	8110242799202469	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	c35e04cb94a23bab
+85225	86427	8110243656756754	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/project_elf_src_esp32c61.c	4dd48fde56790a54
 549	3817	8110242801314688	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	56032768764b4ca9
-438	3916	8110242800203343	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	2d86875567b7d80a
 3475	7365	8110242830571204	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	7d7c8c9367056467
+438	3916	8110242800203343	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	2d86875567b7d80a
 3628	7268	8110242832104128	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	b75a1674e9201672
 4029	7485	8110242836113949	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	ef2ca5df0c8f4f52
 3700	7753	8110242832830184	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	8a6c4380052f38a3
+3916	8090	8110242834992881	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	4c5d47ff61382628
+54	178143	8118930147828019	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	efa37629bae6eb95
 76820	79817	8110243564029096	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32c61/dedic_gpio_periph.c.obj	f7a0ea40fda07881
 47278	52997	8110243268610699	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	fbdb00e75f249f81
-3916	8090	8110242834992881	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	4c5d47ff61382628
+7485	12632	8110242870672886	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	e83838872fef8514
 7631	11729	8110242872134633	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	385c664d5f4863bd
 30153	34834	8110243097353742	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/rtc_time.c.obj	cfea8d8e8a04dcc4
-7485	12632	8110242870672886	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	e83838872fef8514
+7269	12158	8110242868514989	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	5721dc28112a087
 12783	19346	8110242923657257	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	964d24ee3f23ea7c
 39740	43305	8110243193233272	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	75c407ad2bb9abd4
-7269	12158	8110242868514989	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	5721dc28112a087
+7365	12783	8110242869481362	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	1fb26ff575c6f470
 79818	82667	8110243594006595	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	6e6420220eb2dbaa
 46083	50517	8110243256650746	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	1d3f700d0879eabb
-7365	12783	8110242869481362	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	1fb26ff575c6f470
-34835	38539	8110243144179054	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_rtc_calib.c.obj	e974d00000a8c838
 12633	15888	8110242922158766	esp-idf/log/liblog.a	ab2bda8ff87516ec
-35303	39568	8110243148855240	esp-idf/esp_hw_support/libesp_hw_support.a	cff90488cf4e36db
+34835	38539	8110243144179054	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_rtc_calib.c.obj	e974d00000a8c838
 15889	20740	8110242954720401	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	a085c54a0d22f430
-20741	25884	8110243003240535	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/cpu_region_protect.c.obj	b845a3b969ff279d
+35303	39568	8110243148855240	esp-idf/esp_hw_support/libesp_hw_support.a	cff90488cf4e36db
 8090	24033	8110242876730808	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_systimer.c.obj	204825ea0025b715
+20741	25884	8110243003240535	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/cpu_region_protect.c.obj	b845a3b969ff279d
 19347	24127	8110242989303310	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/esp_cpu_intr.c.obj	3d81a27d79a9564e
 34589	38442	8110243141718161	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_fields.c.obj	aa32c02a3de0567c
 7753	24352	8110242873361364	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_regi2c_esp32c61.c.obj	c7d4540724a0629
 68435	71906	8110243480175039	esp-idf/esp_hal_uart/libesp_hal_uart.a	48983fd7e2b6ccbc
 19919	24640	8110242995025696	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	1481eeb73080d363
 11730	26312	8110242913120968	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_cache_writeback_esp32c5_esp32c61_esp32h4.c.obj	b49e010031bbbc2a
-35019	38697	8110243146016868	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_utility.c.obj	85d2c6651e5be39c
+24033	30151	8110243036161367	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/rtc_clk_init.c.obj	c870df32f81ddff8
 76328	78976	8110243559112872	esp-idf/esp_hal_timg/libesp_hal_timg.a	1ad132ebcc91c985
 25885	32968	8110243054670625	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/pmu_sleep.c.obj	a064b0b07f34d2ba
-24033	30151	8110243036161367	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/rtc_clk_init.c.obj	c870df32f81ddff8
+35019	38697	8110243146016868	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_utility.c.obj	85d2c6651e5be39c
+54	178143	8118930143169824	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/cmake_install.cmake	efa37629bae6eb95
 61133	63703	8110243407153076	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/esp32c61/mwdt_periph.c.obj	5299057f09b4f3b5
 24353	30319	8110243039351096	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/pmu_param.c.obj	83933057c3ce07bb
 24128	31332	8110243037107630	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/rtc_clk.c.obj	3f5aaa1094393650
-26313	32491	8110243058953675	esp-idf/esp_rom/libesp_rom.a	af4d4937d00ab208
 24640	31570	8110243042224531	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/pmu_init.c.obj	9c6d0b1f0f2b248d
-42619	46716	8110243222024002	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	10ae9143553c6210
+26313	32491	8110243058953675	esp-idf/esp_rom/libesp_rom.a	af4d4937d00ab208
 31570	35018	8110243111536003	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	651f7349ef209f2c
+42619	46716	8110243222024002	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	10ae9143553c6210
 31333	35194	8110243109157374	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32c61/ocode_init.c.obj	cab1670c6a8367a5
-42434	45944	8110243220166807	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	de521a16fe6885f1
 32491	35303	8110243120738759	esp-idf/esp_common/libesp_common.a	7a22aa4c936a11f8
+42434	45944	8110243220166807	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	de521a16fe6885f1
 32969	36019	8110243125517829	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32c61/esp_efuse_table.c.obj	edc48d09578aec3d
-42794	46479	8110243223765968	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	4f2fa708e798b3dc
 35194	39041	8110243147768683	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	841b02451c901233
+42794	46479	8110243223765968	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	4f2fa708e798b3dc
 63560	66237	8110243431425911	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/timer_hal.c.obj	523df1bb02055669
 36020	39740	8110243156024812	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	b2d888a47339bc3f
 38539	42319	8110243181217192	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/with_key_purposes/esp_efuse_api_key.c.obj	412fa97902bbd511
-38698	42558	8110243182803985	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	fbbc43a55d90b5a9
 38442	42434	8110243180255817	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	91839a1f94edd345
+54	178143	8118930161688667	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_system/cmake_install.cmake	efa37629bae6eb95
+38698	42558	8110243182803985	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	fbbc43a55d90b5a9
 39568	42619	8110243191505706	esp-idf/esp_system/libesp_system.a	abe7249a35e5574a
 64075	67802	8110243436582418	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	898e4022a0c41a5
 39042	42793	8110243186243937	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	75c6ceb13203f9c3
 42559	46082	8110243221418474	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	d9a702e5299b607d
-42319	46254	8110243219020238	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	a64f0ee9e28d26ed
 45944	51684	8110243255274206	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	8a92f3a21a5464db
+42319	46254	8110243219020238	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	a64f0ee9e28d26ed
 46255	51184	8110243258377619	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32c61.c.obj	3dae123bde50166a
+54	178143	8118930152556312	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	efa37629bae6eb95
 43306	47278	8110243228887028	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32c61.c.obj	4e4dcda6de32a2eb
 46717	50310	8110243262998850	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	c228ff3d5296cf85
+54	178143	8118930165786470	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/log/cmake_install.cmake	efa37629bae6eb95
 46480	52498	8110243260626089	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	9a9764df74d67da2
 50310	53680	8110243298937031	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	dca4084a909efa0f
 51185	54691	8110243307676242	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	99e3ff53037d10f9
+54	178143	8118930162565219	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/mspi_timing_tuning/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
 51685	55585	8110243312678961	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	7a959195de70cef9
 52499	55757	8110243320814324	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	ce51addf46bc320d
 50518	55878	8110243301005145	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	940e5eb97731f09a
+54	178143	8118930160226101	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930146245178	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/riscv/cmake_install.cmake	efa37629bae6eb95
 52998	56120	8110243325806470	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c61/bootloader_soc.c.obj	a81531730eebd44e
 54691	57973	8110243342734952	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	d6ceb120f36a6bcb
 53681	58085	8110243332636019	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32c61/bootloader_esp32c61.c.obj	bdcd28f546360b4f
 55757	58176	8110243353399402	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	e95753aa1ee5d7e
 56120	58325	8110243357024629	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32c61/adc_periph.c.obj	429bdaf252db6bf2
+54	178143	8118930155582611	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	efa37629bae6eb95
 55878	58760	8110243354606477	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	b92abbe3080d5d6a
 55586	58855	8110243351681607	esp-idf/efuse/libefuse.a	dd5184a2797e3130
-93165	94665	8110243741799590	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/.bin_timestamp	80f3613f783f9ec3
 58085	60520	8110243376678342	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_oneshot_hal.c.obj	6a70aa97113b3d33
-78268	80314	8110243578511086	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	241ded5ad652dee6
+93165	94665	8110243741799590	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/.bin_timestamp	80f3613f783f9ec3
+54	178143	8118930152671524	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	efa37629bae6eb95
 57973	60919	8110243375556422	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal_common.c.obj	814837fa96a02ff4
+78268	80314	8110243578511086	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	241ded5ad652dee6
 58760	61027	8110243383437185	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32c61/temperature_sensor_periph.c.obj	feab7954de97872d
 58325	61132	8110243379076046	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/temperature_sensor_hal.c.obj	96d35808db4e3123
 58177	61370	8110243377589580	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal.c.obj	87b249af0f11c5b6
-82668	84534	8110243639126522	ld/bootloader.sections.ld	49413fc40f77f858
 58855	63300	8110243384383505	esp-idf/bootloader_support/libbootloader_support.a	60afe0f8581b979d
-84238	87112	8110243638200020	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c61/efuse_hal.c.obj	81c1f62a3a236c42
-67802	72028	8110243473845152	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	92a668fbe57e4f39
+82668	84534	8110243639126522	ld/bootloader.sections.ld	49413fc40f77f858
+54	178143	8118930158553274	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_security/cmake_install.cmake	efa37629bae6eb95
 61027	63560	8110243406096382	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/esp32c61/uart_periph.c.obj	1f175e753b476d40
+67802	72028	8110243473845152	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	92a668fbe57e4f39
+84238	87112	8110243638200020	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32c61/efuse_hal.c.obj	81c1f62a3a236c42
 60520	63817	8110243401024292	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal.c.obj	778c522949c6e6db
 60919	63953	8110243405019754	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal_iram.c.obj	590668babcdaa866
 61371	64075	8110243409536174	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/rom_patch.c.obj	6a1257bc46ef6146
@@ -104,35 +115,37 @@
 66237	69234	8110243458198577	esp-idf/esp_hal_clock/CMakeFiles/__idf_esp_hal_clock.dir/esp32c61/clk_tree_hal.c.obj	403146c2747dd015
 66549	69420	8110243461323660	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal.c.obj	a67998c80a335c81
 63817	69556	8110243433999066	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	e35a7bed400af770
-73284	76820	8110243528667492	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	8936c9b2f2706d5f
 69138	72197	8110243487209960	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal.c.obj	8b8596e60170928b
+73284	76820	8110243528667492	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	8936c9b2f2706d5f
 69557	72402	8110243491391626	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_top.c.obj	d31be81f94ca2cf5
 69235	72719	8110243488181546	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal_iram.c.obj	cc04b99fcdb1f841
-79949	82551	8110243595318248	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c61/interrupts.c.obj	528a8f2e10debe4e
 69421	73283	8110243490039521	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hd_hal.c.obj	874e853e2c450a39
+79949	82551	8110243595318248	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c61/interrupts.c.obj	528a8f2e10debe4e
 72028	75670	8110243516113686	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/esp32c61/gdma_periph.c.obj	b3de7831a334caf6
 72403	76257	8110243519853957	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/esp32c61/pmu_hal.c.obj	97928167bc577ee1
 71906	76328	8110243514891941	esp-idf/esp_hal_wdt/libesp_hal_wdt.a	de6027a5a860c3a9
 72720	76482	8110243523058517	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/esp32c61/pau_hal.c.obj	f07645925e5e84e3
+54	178143	8118930151644680	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	efa37629bae6eb95
 72197	76586	8110243517801093	esp-idf/esp_hal_dma/CMakeFiles/__idf_esp_hal_dma.dir/gdma_hal_ahb_v2.c.obj	8df08ad9c5189096
 75670	78268	8110243552526890	esp-idf/esp_hal_usb/CMakeFiles/__idf_esp_hal_usb.dir/usb_serial_jtag_hal.c.obj	3ec303907490a437
 76586	79949	8110243561691107	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32c61/rtc_io_periph.c.obj	80a9b1b42801037f
 76258	80082	8110243558401834	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/gpio_hal.c.obj	af968ff8458773af
 76482	80187	8110243560654529	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/rtc_io_hal.c.obj	800519838e81eb50
+54	178143	8118930158333060	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	efa37629bae6eb95
 78977	81836	8110243585595621	esp-idf/micro-ecc/libmicro-ecc.a	cf251a93a6aec854
 80083	82433	8110243596649802	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c61/gpio_periph.c.obj	5dc66116fe77596e
 80188	82821	8110243597700868	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c61/system_retention_periph.c.obj	2d5bfe5937827082
 80314	82895	8110243598967381	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32c61/power_supply_periph.c.obj	9e73190fe719864d
 81836	84024	8110243614196313	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	8e2654c1d1e8a5f0
 82552	84237	8110243636132081	ld/bootloader.memory.ld	2a9379c89d0d3c98
-82896	85817	8110243624784981	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	a1d8e101f3f7ac30
 82552	84237	8110243636132081	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/ld/bootloader.memory.ld	2a9379c89d0d3c98
+82896	85817	8110243624784981	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	a1d8e101f3f7ac30
 82668	84534	8110243639126522	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/ld/bootloader.sections.ld	49413fc40f77f858
 82434	85094	8110243620163362	esp-idf/riscv/CMakeFiles/__idf_riscv.dir/rv_utils.c.obj	c9d69dc3289af59c
 82822	85224	8110243624039006	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	b2285e78e7d80438
 84024	86324	8110243636071951	esp-idf/spi_flash/libspi_flash.a	4f8d4d8d35552e11
-86325	88388	8110243659075730	esp-idf/esp_hal_clock/libesp_hal_clock.a	a6688c38e47141e3
 85225	86427	8110243656756754	project_elf_src_esp32c61.c	4dd48fde56790a54
+86325	88388	8110243659075730	esp-idf/esp_hal_clock/libesp_hal_clock.a	a6688c38e47141e3
 84534	87768	8110243641169311	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	7466b3b37de32cad
 85095	88277	8110243646772101	esp-idf/hal/CMakeFiles/__idf_hal.dir/cache_hal.c.obj	3f40036c96da52f5
 85817	88348	8110243653997327	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	4fc14576eebc0059
@@ -145,61 +158,93 @@
 90547	91013	8110243701296559	esp-idf/soc/libsoc.a	8c6ecffc9cce22bb
 91013	91420	8110243705957845	esp-idf/riscv/libriscv.a	8a425d3c3e9b3524
 91421	91901	8110243710033586	esp-idf/hal/libhal.a	af075e285a77e429
+54	178143	8118930151213668	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	efa37629bae6eb95
 91901	92369	8110243714840625	esp-idf/main/libmain.a	b9321561f1a21c97
 92369	93164	8110243719518161	bootloader.elf	2febd8f69f61eef4
 93165	94665	8110243741799590	.bin_timestamp	80f3613f783f9ec3
-113	516	8118897403328585	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-113	516	8118897403328585	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-54	178143	8118900120718459	build.ninja	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/hal/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/riscv/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/soc/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/partition_table/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_security/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/efuse/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_system/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/mspi_timing_tuning/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_common/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/log/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_tee/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/freertos/cmake_install.cmake	efa37629bae6eb95
-54	178143	8118900120718459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/main/cmake_install.cmake	efa37629bae6eb95
-365	1643	8118900135792676	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-365	1643	8118900135792676	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-139	643	8118913787565416	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-139	643	8118913787565416	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-164	751	8118913813453006	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-164	751	8118913813453006	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-133	632	8118919835044083	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
-133	632	8118919835044083	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
 192	682	8118920275836039	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
 192	682	8118920275836039	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+54	178143	8118930168837143	build.ninja	efa37629bae6eb95
+54	178143	8118930161102743	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/efuse/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930143229932	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930145358714	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/hal/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930149741257	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930146320455	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930146891170	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/soc/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930147101484	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930148559181	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930149425664	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930151148733	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930151899982	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930152741632	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/partition_table/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930153442891	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930154354894	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930155843144	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930157010459	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930157281122	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930158227787	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930162434931	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930162495113	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930162680358	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930163892870	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_common/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930164884760	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930165866574	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930165961794	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930166031917	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_tee/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930166127243	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/freertos/cmake_install.cmake	efa37629bae6eb95
+54	178143	8118930166883478	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/main/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	build.ninja	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/hal/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/riscv/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/soc/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/partition_table/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_security/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/efuse/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_system/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/mspi_timing_tuning/port/esp32c61/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_common/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/log/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/bootloader/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/esp_tee/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/freertos/cmake_install.cmake	efa37629bae6eb95
+47	240557	8118930168837143	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/esp-idf/main/cmake_install.cmake	efa37629bae6eb95
+599	3699	8118930192426610	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+599	3699	8118930192426610	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+110	677	8120678098988445	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+110	677	8120678098988445	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+93	513	8120679170282072	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+93	513	8120679170282072	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+91	499	8120681047974161	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+91	499	8120681047974161	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+102	429	8120682000860540	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+102	429	8120682000860540	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+93	443	8120682017637079	CMakeFiles/bootloader_check_size	48911b8a10bf1f8f
+93	443	8120682017637079	C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/bootloader/CMakeFiles/bootloader_check_size	48911b8a10bf1f8f

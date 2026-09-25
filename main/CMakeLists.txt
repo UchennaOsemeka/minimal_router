@@ -1,3 +1,3 @@
 idf_component_register(SRCS "minimal_router_main.c"
-                       PRIV_REQUIRES esp_wifi nvs_flash
+                       PRIV_REQUIRES esp_wifi nvs_flash esp_http_server
                        INCLUDE_DIRS ".")

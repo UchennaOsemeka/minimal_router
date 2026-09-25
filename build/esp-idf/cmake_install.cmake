@@ -354,6 +354,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/http_parser/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/esp_http_server/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/main/cmake_install.cmake")
 endif()
 

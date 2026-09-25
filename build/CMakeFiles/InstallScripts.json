@@ -88,6 +88,8 @@
 		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/wpa_supplicant/cmake_install.cmake",
 		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/esp_coex/cmake_install.cmake",
 		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/esp_wifi/cmake_install.cmake",
+		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/http_parser/cmake_install.cmake",
+		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/esp_http_server/cmake_install.cmake",
 		"C:/Users/admin_user/Documents/ESP32/Projects/Personal Creations/Router Project/minimal_router/build/esp-idf/main/cmake_install.cmake"
 	],
 	"Parallel" : false
