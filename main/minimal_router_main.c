@@ -15,6 +15,10 @@
 #include "esp_log.h"
 #include "nvs_flash.h"
 
+#include "esp_netif.h"
+#include "esp_http_server.h"
+#include <stdio.h>
+
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
@@ -102,6 +106,56 @@ void wifi_init_softap(void)
              EXAMPLE_ESP_WIFI_SSID, EXAMPLE_ESP_WIFI_PASS, EXAMPLE_ESP_WIFI_CHANNEL);
 }
 
+esp_err_t status_handler(httpd_req_t *req)
+{
+    // Handle the request
+    char response[100]= "We are connected yes\n";
+	//retrieve station lists connected to our AP
+	wifi_sta_list_t sta_list;
+	esp_err_t result = esp_wifi_ap_get_sta_list(&sta_list);
+	if (result == ESP_OK) {
+		char sec_response[50];
+		snprintf(sec_response, sizeof(sec_response),
+            "Connected stations: %d\n", sta_list.num);
+		strcat(response, sec_response);
+	}		 
+	httpd_resp_send(req, response, HTTPD_RESP_USE_STRLEN);
+    // Return ESP_OK if the request was handled successfully
+    return ESP_OK;
+
+    // Return an error code to close the connection
+    // return ESP_FAIL;
+}
+
+void register_uri_handlers(httpd_handle_t server)
+{
+    httpd_uri_t status_uri = {
+        .uri       = "/status",
+        .method    = HTTP_GET,
+        .handler   = status_handler,
+        .user_ctx  = NULL
+    };
+
+    httpd_register_uri_handler(server, &status_uri);
+}
+
+//Function for starting the webserver
+httpd_handle_t start_webserver(void)
+{
+	// Generate default configuration
+	httpd_config_t config = HTTPD_DEFAULT_CONFIG();
+
+	// Empty handle to http_server
+		 httpd_handle_t server = NULL;
+
+	// Start the httpd server
+	if (httpd_start(&server, &config) == ESP_OK) {
+	// Register URI handlers
+		register_uri_handlers(server);
+		 }
+	// If server failed to start, handle will be NULL
+	return server;
+}
 void app_main(void)
 {
 	esp_log_level_set("wifi", ESP_LOG_WARN);  //reset log level to suppress wifi driver messages
@@ -115,4 +169,5 @@ void app_main(void)
 
     ESP_LOGI(TAG, "ESP_WIFI_MODE_AP");
     wifi_init_softap();
+	start_webserver();
 }
