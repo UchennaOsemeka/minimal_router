@@ -17,6 +17,7 @@
 
 #include "esp_netif.h"
 #include "esp_http_server.h"
+#include <stdio.h>
 
 #include "lwip/err.h"
 #include "lwip/sys.h"
@@ -108,9 +109,17 @@ void wifi_init_softap(void)
 esp_err_t status_handler(httpd_req_t *req)
 {
     // Handle the request
-    const char* response= "We are connected yes";
+    char response[100]= "We are connected yes\n";
+	//retrieve station lists connected to our AP
+	wifi_sta_list_t sta_list;
+	esp_err_t result = esp_wifi_ap_get_sta_list(&sta_list);
+	if (result == ESP_OK) {
+		char sec_response[50];
+		snprintf(sec_response, sizeof(sec_response),
+            "Connected stations: %d\n", sta_list.num);
+		strcat(response, sec_response);
+	}		 
 	httpd_resp_send(req, response, HTTPD_RESP_USE_STRLEN);
-
     // Return ESP_OK if the request was handled successfully
     return ESP_OK;
 
